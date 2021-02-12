@@ -1,0 +1,25 @@
+#ins:hover {
+  border: 1px solid #888888;
+  background-color: #c8cbcf;
+}
+
+.dop {
+  cursor: pointer;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+li {
+  padding-left: 10px;
+  font-size: 15px;
+  padding-top: 10px;
+}
+
+input:hover {
+  box-shadow: 1px 1px 4px 2px black;
+}
+
+
